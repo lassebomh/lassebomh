@@ -1,7 +1,6 @@
-# Hello! 👋 I'm Lasse
+<ul style="text-align: ltr;"><li> 🔥 Passionate about web tech.</li><li> 📖 Studying IT Architecture.</li><li> 🏠 Living in Aarhus.</li></ul>
 
-| <ul style="text-align: ltr;"><li> 🔥 Passionate about web tech.</li><li> 📖 Studying IT Architecture.</li><li> 🏠 Living in Aarhus.</li></ul> | ![](https://github-readme-stats.vercel.app/api?username=lassebomh) |
-| -- | -- |
+![](https://github-readme-stats.vercel.app/api?username=lassebomh)
 
 
 
